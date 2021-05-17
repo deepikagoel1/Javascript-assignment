@@ -1,0 +1,150 @@
+[
+  {
+    "id": "48d4ef65-09ba-41a1-965d-c7fca971e609",
+    "data": [
+      {
+        "text": "qui sont tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4011f42d-435e-4057-8484-30645bfc1821",
+    "data": [
+      {
+        "text": "qui est ton développeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "33fd1d79-d4a9-4946-8354-b7792db8d05c",
+    "data": [
+      {
+        "text": "parle-moi de celui qui t\u0027a créé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d3ffd375-2307-48b5-b56b-c498a14e92d1",
+    "data": [
+      {
+        "text": "tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c696ecd2-292c-4d54-87d0-53029de398bd",
+    "data": [
+      {
+        "text": "parle-moi de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "311625ac-a406-41b3-a47f-952fc40b3a05",
+    "data": [
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sont tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "7afad830-3644-4e6d-bac4-1604aef9865b",
+    "data": [
+      {
+        "text": "parle-moi de tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5576147a-793d-4d62-a004-f64fe2ebee50",
+    "data": [
+      {
+        "text": "qui sont les gens qui t\u0027ont créé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bd07e18c-8e1d-4dd8-a0a5-1386c902b883",
+    "data": [
+      {
+        "text": "qui sont tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9e2726ac-404c-4958-b2ee-59d5f60da92a",
+    "data": [
+      {
+        "text": "tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "21df54ef-1c3a-4dba-ac34-590d02c0f2bf",
+    "data": [
+      {
+        "text": "qui t\u0027a créé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

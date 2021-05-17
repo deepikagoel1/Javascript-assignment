@@ -1,0 +1,141 @@
+[
+  {
+    "id": "590574f1-4337-4581-bd83-06e6e7bf7437",
+    "data": [
+      {
+        "text": "wie lautet deine E-Mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e98e6285-328b-403f-ba91-e2440e6c353c",
+    "data": [
+      {
+        "text": "E-Mail-Adresse von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ce8f1189-9109-4cb1-8454-891a6c5fde72",
+    "data": [
+      {
+        "text": "sag mir die E-Mail-Adresse von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0770f35d-aa1a-4cc9-bda6-4f87c52aa232",
+    "data": [
+      {
+        "text": "deine E-Mail-Adresse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "05409c40-fd11-4529-867a-fc2631eabb2f",
+    "data": [
+      {
+        "text": "wie kann ich eine E-Mail an deinen Entwickler schreiben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9dd0da4e-842b-4ad9-93da-92f480479972",
+    "data": [
+      {
+        "text": "was ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " die E-mail von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "242413f6-9acb-456e-8944-dd749ee2d708",
+    "data": [
+      {
+        "text": "gib mir bitte die E-Mail-Adresse von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f7d0a6da-c2a9-4161-8f3f-81588e1d7ba8",
+    "data": [
+      {
+        "text": "wie schreibe ich eine E-Mail an deinen Enwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8aaf53e7-92a7-44d5-a5da-fbd79e2615b9",
+    "data": [
+      {
+        "text": "wie lautet die E-Mail-Adresse von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "73a93fae-3968-4c09-bb77-21770eae1a70",
+    "data": [
+      {
+        "text": "wie kann ich deinem Entwickler eine E-Mail schicken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

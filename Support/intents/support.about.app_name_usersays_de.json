@@ -1,0 +1,232 @@
+[
+  {
+    "id": "d06db64d-9222-44b0-8c71-8ed2585bf19e",
+    "data": [
+      {
+        "text": "wie heißt die Anwendung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7b8ee185-d4a5-4885-ade1-0ce8a3e133eb",
+    "data": [
+      {
+        "text": "ich möchte den Namen dieser App ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "124402d3-4da6-43f8-9234-8446d6460042",
+    "data": [
+      {
+        "text": "wie heißt ",
+        "userDefined": false
+      },
+      {
+        "text": "die",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " Anwendung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5a7fe2f1-fb52-4237-bc8b-0cd53ba5d950",
+    "data": [
+      {
+        "text": "was ist der Name der App",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "355853bd-820a-4b1e-a059-3f6afcb6c768",
+    "data": [
+      {
+        "text": "ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " wie ",
+        "userDefined": false
+      },
+      {
+        "text": "der",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Name",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "App",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8b09d835-4b27-48e2-a72b-a8aedd46e273",
+    "data": [
+      {
+        "text": "App-Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "79ff1a3a-2618-4fbe-846e-8a3bda9e0d90",
+    "data": [
+      {
+        "text": "wie heißt ",
+        "userDefined": false
+      },
+      {
+        "text": "die",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "App",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4ec1d6ad-26ab-48ed-a051-1f66cb5d20a8",
+    "data": [
+      {
+        "text": "kannst du mir bitte sagen wie diese Anwendung heißt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "374265bb-f592-4eec-8303-cd1cfb634aaf",
+    "data": [
+      {
+        "text": "ich will ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wie der Name von der App ist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b42c43f0-953c-4314-8abd-2cff9bbc8aee",
+    "data": [
+      {
+        "text": "bitte sag mir den App-Namen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2b77526b-84e4-4bc0-b20f-484b4eccd3c6",
+    "data": [
+      {
+        "text": "Name der App",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

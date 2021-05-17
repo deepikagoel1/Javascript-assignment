@@ -1,0 +1,106 @@
+[
+  {
+    "id": "68694d49-1a01-415b-9bdd-9291a0b4f9e1",
+    "data": [
+      {
+        "text": "chi sono i tuoi genitori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3ad88f03-b856-42b2-be79-a3854318a9d9",
+    "data": [
+      {
+        "text": "chi è il tuo insegnante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bf16e1c8-89c5-4074-b8e2-b68a990ea386",
+    "data": [
+      {
+        "text": "chi è tua madre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "79bb86c8-dfd4-4a2a-8276-54b4b3e114f3",
+    "data": [
+      {
+        "text": "chi è tuo padre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b3727bc2-a574-4d13-868b-f7b575f4abb9",
+    "data": [
+      {
+        "text": "chi è tuo papà",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7690c0b7-39f6-4bae-96d9-99296427e817",
+    "data": [
+      {
+        "text": "chi ti ha creato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "caa8fac2-61c7-4060-bfde-3fe19cb5ea1f",
+    "data": [
+      {
+        "text": "chi è il tuo inventore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cd594715-adcc-4106-8576-f943f326a2a3",
+    "data": [
+      {
+        "text": "chi è tua mamma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

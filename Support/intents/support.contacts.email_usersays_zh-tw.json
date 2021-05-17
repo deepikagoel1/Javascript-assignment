@@ -1,0 +1,210 @@
+[
+  {
+    "id": "a17c9f09-f0b5-43c4-8bfd-6ba79bebd181",
+    "data": [
+      {
+        "text": "我想要聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "6ed5ba74-102e-4655-a228-0beec7acf6c1",
+    "data": [
+      {
+        "text": "你能給我開發者的電子郵件地址嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "32822870-4df5-4721-93be-a5a510fcc602",
+    "data": [
+      {
+        "text": "你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "75877dcf-8762-4237-be26-05aa4077b016",
+    "data": [
+      {
+        "text": "如何聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "93aa6070-6395-4e8a-ac0b-0b400afa061f",
+    "data": [
+      {
+        "text": "聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "5726f74c-0043-4cb3-b95f-88b616014825",
+    "data": [
+      {
+        "text": "你的開發人員的電子郵件是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "70f389c5-1400-4b43-9141-9ae2916bd21c",
+    "data": [
+      {
+        "text": "我要聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8f5be4b4-8d5a-44b9-9899-a4ea543743ca",
+    "data": [
+      {
+        "text": "我想給你的開發者寫一封電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "fb541100-85ef-4073-a5ef-766308442752",
+    "data": [
+      {
+        "text": "您的開發人員發郵",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "c1f6cf7c-1bf9-4096-87a5-b08fad7203a0",
+    "data": [
+      {
+        "text": "給我你的開發者電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a1e04bfe-e025-4600-90f6-1c88d578ced4",
+    "data": [
+      {
+        "text": "你的開發者有什麽電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b5b2d240-663d-4848-97b6-17a4144dcda5",
+    "data": [
+      {
+        "text": "告訴我怎聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a7056d56-0bea-4d90-a832-a958d530f63a",
+    "data": [
+      {
+        "text": "給我你的開發人員的電子郵件地址",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "e3158bb2-ca77-4395-a921-b9ae60db0cd3",
+    "data": [
+      {
+        "text": "我想通過電子郵件與您的開發人員聯系",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9ccdb4b4-4683-4266-8a90-18910ce5ee21",
+    "data": [
+      {
+        "text": "你的開發者的電子郵件地址是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "63cfc60a-e69b-47f5-970b-3e5ed8008725",
+    "data": [
+      {
+        "text": "怎麽聯系你的開發人員電子郵件",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

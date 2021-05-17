@@ -1,0 +1,172 @@
+[
+  {
+    "id": "210462d3-28c5-4864-9b9c-eca1119fe6fb",
+    "data": [
+      {
+        "text": "je veux devenir ton testeur bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6f88ce68-e147-45a2-92dd-7bbd4ae65f32",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que je dois faire pour avoir ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e247e0fa-c5f6-4997-bc42-c4749c2f3e48",
+    "data": [
+      {
+        "text": "ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "78f85af2-a98d-465e-84bc-3344c7fa2c3a",
+    "data": [
+      {
+        "text": "je veux rejoindre le groupe de test bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0c794d55-ca19-4eea-98c1-e1831656536a",
+    "data": [
+      {
+        "text": "la version bêta de ton appli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6b91b4b2-a92c-4aa9-88ec-56fe4ca6c8e9",
+    "data": [
+      {
+        "text": "donne-moi ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "efb9add1-b7bd-4e66-8697-ef26bea250d6",
+    "data": [
+      {
+        "text": "je veux avoir ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2ea55e74-fe04-401b-93dc-44c30c399b2a",
+    "data": [
+      {
+        "text": "comment faire pour tester ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "756f886f-7c88-448d-aef2-6b5fdc86beda",
+    "data": [
+      {
+        "text": "où trouver ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "70a583c6-d793-48cb-a089-a6a8ac13c8e0",
+    "data": [
+      {
+        "text": "as-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3e12c249-37e7-462c-9a81-c8c902301682",
+    "data": [
+      {
+        "text": "puis-je avoir ta version bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "27e725da-8177-4e5d-9fad-a42a9b5dbcb4",
+    "data": [
+      {
+        "text": "version",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bêta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "19959eb2-ccb3-4c48-a822-546c5f8315ea",
+    "data": [
+      {
+        "text": "告訴我你的應用程序名稱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3b5670dc-d6fc-4c49-9152-960c9a860148",
+    "data": [
+      {
+        "text": "你的應用程序的名稱是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1e92d135-25af-4d19-ade6-7573e4790027",
+    "data": [
+      {
+        "text": "我想知道您的應用程序的名稱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f5ae8ca3-32b0-4556-bc00-52717ef673b6",
+    "data": [
+      {
+        "text": "應用程式名稱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "e21a81ca-8668-4814-9cc3-881a045feeef",
+    "data": [
+      {
+        "text": "程序",
+        "userDefined": false
+      },
+      {
+        "text": "名字",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "193400f7-2897-472b-bebb-6b3973cf676f",
+    "data": [
+      {
+        "text": "我怎麽知道您的應用程序的名稱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a0d39499-a09c-4be1-83a4-8872d3603699",
+    "data": [
+      {
+        "text": "你的應用程序怎麽叫",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "0d3d489f-7944-4bc0-9e81-490edbfd62e7",
+    "data": [
+      {
+        "text": "應用程式的名稱是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "0c2eaf76-8afb-4163-98b2-81b8542d69ae",
+    "data": [
+      {
+        "text": "你程序的",
+        "userDefined": false
+      },
+      {
+        "text": "名字",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "6937cf4d-dccc-492b-8169-34b571841d56",
+    "data": [
+      {
+        "text": "你的應用程序名稱是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "c8bd5ee7-8bb5-4525-83ac-51a9735e74c3",
+    "data": [
+      {
+        "text": "程序的",
+        "userDefined": false
+      },
+      {
+        "text": "名字",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

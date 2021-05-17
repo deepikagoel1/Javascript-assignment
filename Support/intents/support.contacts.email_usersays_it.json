@@ -1,0 +1,106 @@
+[
+  {
+    "id": "4f9ed8fe-15f5-4b61-ac8e-deb501b296a3",
+    "data": [
+      {
+        "text": "email dei tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3079522c-2e01-4b7a-a877-f80b77eaa285",
+    "data": [
+      {
+        "text": "come posso mandare una mail ai tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ed53f0a8-dc7d-4f5c-9aba-6ce179351436",
+    "data": [
+      {
+        "text": "email del tuo developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "89ba65c7-d69e-4364-9530-87374d0db9c6",
+    "data": [
+      {
+        "text": "qual è l\u0027indirizzo email dei tuoi sviluppatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eda0d19f-eeef-4f99-930b-be20c91e767b",
+    "data": [
+      {
+        "text": "indirizzo email del tuo sviluppatore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d69fa3c3-2961-48c1-91ea-8a2fca9e0466",
+    "data": [
+      {
+        "text": "vorrei mandare una mail ai tuoi developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b25b16fb-7349-4b0e-bb0c-a5e27b02b280",
+    "data": [
+      {
+        "text": "voglio mandare una mail ai tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b93bba3c-934f-41fd-9d5e-27e4b99ba257",
+    "data": [
+      {
+        "text": "vorrei mandare una mail ai tuoi sviluppatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

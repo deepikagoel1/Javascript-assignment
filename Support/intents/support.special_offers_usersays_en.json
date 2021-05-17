@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1a331fd8-3293-4aa2-ac1d-a71ee927cdfa",
+    "data": [
+      {
+        "text": "special price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "560ba829-9a2c-45ba-b958-cb7906724183",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25b78b0f-5bdf-4181-ad17-5008fd5a6be1",
+    "data": [
+      {
+        "text": "it\u0027s too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04e1923c-0610-4ba2-8d5e-3cbd40dfd23a",
+    "data": [
+      {
+        "text": "current offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0a71ede-3b04-4960-9ec1-18893e7b77d9",
+    "data": [
+      {
+        "text": "do you have special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0215e1f5-2898-4813-860e-2384beaf5b94",
+    "data": [
+      {
+        "text": "too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0439f45-f219-4d2e-ac5f-89ad70a4ed4b",
+    "data": [
+      {
+        "text": "can I have a discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb340828-62b7-4727-b468-62500a45d5db",
+    "data": [
+      {
+        "text": "any special offers ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "894f0e2e-b373-40b3-838f-e13d8b4d136f",
+    "data": [
+      {
+        "text": "some products are very expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd9ef1c9-5e16-43ee-9045-c617646a3536",
+    "data": [
+      {
+        "text": "do you have any discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

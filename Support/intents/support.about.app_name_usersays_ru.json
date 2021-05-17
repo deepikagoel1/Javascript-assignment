@@ -1,0 +1,119 @@
+[
+  {
+    "id": "01ef38d9-3150-446f-9bbc-db2ec8f27e0c",
+    "data": [
+      {
+        "text": "имя приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8424222d-8518-4ba1-b395-a79f20930fd0",
+    "data": [
+      {
+        "text": "название приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0d26e6f6-ff33-4c5b-ae25-711a30f5fcec",
+    "data": [
+      {
+        "text": "что за название у этого приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "943a7f30-da70-406d-a75b-12d24bf80e84",
+    "data": [
+      {
+        "text": "как узнать название приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6e3184e6-4eaf-4379-889f-42eca8f9eeeb",
+    "data": [
+      {
+        "text": "что за имя у приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f434f4e4-1363-4fed-ac49-9c4c91fe1382",
+    "data": [
+      {
+        "text": "как называется твоё приложение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "01085d8c-17e9-4363-af21-80deb22c9de1",
+    "data": [
+      {
+        "text": "скажи мне название приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dfc44b4a-c952-4ed4-879f-95892d29a4b5",
+    "data": [
+      {
+        "text": "как называют это приложение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "70d298bf-12de-45e4-98e4-d65c007f906a",
+    "data": [
+      {
+        "text": "я бы хотел узнать название приложения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

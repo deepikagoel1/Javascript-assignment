@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1b17570f-e0c2-4a9a-ab8a-0a517f44db2b",
+    "data": [
+      {
+        "text": "作成者が誰か教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "bba22eda-cadb-4cda-be94-5aca5bdf47ff",
+    "data": [
+      {
+        "text": "作成者の名前は何ですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a1666cb7-fc3e-4aa0-8122-7e3849006a75",
+    "data": [
+      {
+        "text": "誰に作成されたかわかりますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a623a957-07bd-4de1-a8c8-da73fab61390",
+    "data": [
+      {
+        "text": "作成者について教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "090901d1-08ba-4202-8ffb-ff1625e3fdce",
+    "data": [
+      {
+        "text": "プログラマーはどなたですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "001c1a71-590b-4eca-968f-3db05d8aca87",
+    "data": [
+      {
+        "text": "デベロッパーの名前は何ですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c176215f-593f-46b0-b2b0-75acd0a170d3",
+    "data": [
+      {
+        "text": "あなたを作ったのは誰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "13fe77c1-0d90-4f40-bbc4-5828a7c9b22d",
+    "data": [
+      {
+        "text": "作成者は誰ですか、教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3d8a3c8a-9f84-4506-a3c4-309d9454cd58",
+    "data": [
+      {
+        "text": "作成したのはどなたですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7d8c721f-9c8c-4099-96ae-cb06ea3e7b9e",
+    "data": [
+      {
+        "text": "あなたの教師はどなたですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3f643af3-a202-4b6e-a9f6-5f777c7004da",
+    "data": [
+      {
+        "text": "デベロッパー名は何ですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

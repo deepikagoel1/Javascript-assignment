@@ -1,0 +1,119 @@
+[
+  {
+    "id": "60b05fef-0562-4879-90b4-8dcdc8b9a744",
+    "data": [
+      {
+        "text": "e o telefone dele",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f272100d-8f19-4bb7-a1d6-1a17d9ecb3ff",
+    "data": [
+      {
+        "text": "agora o telefone deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a665474-83aa-495f-9abe-b2e9270d71dd",
+    "data": [
+      {
+        "text": "e o número de telefone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18f86800-d104-4dec-8284-134b874045fe",
+    "data": [
+      {
+        "text": "e o telefone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f1dcee7-a143-41c7-8554-2e05b2f8011c",
+    "data": [
+      {
+        "text": "como faço uma chamada telefônica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d83032c-3b53-4d30-a102-79672ce824bc",
+    "data": [
+      {
+        "text": "e o número de contato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2992f2a-7d9b-40bc-92a7-a6d597d5a60a",
+    "data": [
+      {
+        "text": "preciso do telefone deles também",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "92781967-78d7-452f-bd0e-10c23731f949",
+    "data": [
+      {
+        "text": "o número dela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c52aca48-4d5e-4a09-8377-a44651faccf5",
+    "data": [
+      {
+        "text": "e o telefone deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

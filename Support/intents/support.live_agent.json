@@ -1,0 +1,66 @@
+{
+  "id": "e9a99ab3-ce2d-42a5-be0c-97a2506ae0fd",
+  "name": "support.live_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.live_agent",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74084d5e-57fd-4cf9-9964-ae234e0971fc",
+          "name": "details",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$details",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you give me some more details of your issue?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me more, so our support team can give you the best answer."
+            },
+            {
+              "lang": "en",
+              "value": "Please, elaborate on the issue, so support team can help you."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for the information! Our support team will get in touch with you shortly."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "28c7d0cc-e26d-46ce-beab-e539f35c58fa",
+    "data": [
+      {
+        "text": "come si chiama questa app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "16a1665c-06ea-4b8e-9295-420ae6838543",
+    "data": [
+      {
+        "text": "nome di questa app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "01df0958-6a97-495e-be1a-0c4ef1ea7bfb",
+    "data": [
+      {
+        "text": "il tuo ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "8acd6f3d-9637-4a63-8558-625a11b6c188",
+    "data": [
+      {
+        "text": "und jetzt die Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "09b55960-4b26-4d1b-9f00-c992e4b40421",
+    "data": [
+      {
+        "text": "und",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Telefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "444377ce-ed76-4eaf-9e30-c725d0f246b6",
+    "data": [
+      {
+        "text": "und jetzt Telefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4f7346ab-fc41-47a2-99f8-058463ff320b",
+    "data": [
+      {
+        "text": "ich brauche auch Ihre Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9fa45351-6254-41fb-b13d-2e001698b464",
+    "data": [
+      {
+        "text": "sag mir auch die Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bbcdfc2f-1152-44aa-808b-292060427c76",
+    "data": [
+      {
+        "text": "ich brauche auch die Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "38bcddb8-7ce8-48e8-807b-4224718139a1",
+    "data": [
+      {
+        "text": "bitte gib mir auch die Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "42cf0773-704c-4ef0-a5c3-1408eb27da2e",
+    "data": [
+      {
+        "text": "und die Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3eb5409d-fdd8-4063-90f3-5502dae1f0b6",
+    "data": [
+      {
+        "text": "jetzt Ihre Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9aca83f4-69e6-4be2-955d-75e019ed0df8",
+    "data": [
+      {
+        "text": "die Telefonnummer auch noch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "6938d09b-0322-4489-b937-9063719ffb2f",
+    "data": [
+      {
+        "text": "el",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nombre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "050e20cd-a4a2-401f-bf7e-ff1cf2b54507",
+    "data": [
+      {
+        "text": "el",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nombre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a3ffa310-dff4-4f0b-be82-063c5733d255",
+    "data": [
+      {
+        "text": "cómo se llama tu aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e4734246-b6b8-46df-8138-873ac1a321bd",
+    "data": [
+      {
+        "text": "cómo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " se ",
+        "userDefined": false
+      },
+      {
+        "text": "llama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b19fa179-897a-4a11-9beb-c2508f489068",
+    "data": [
+      {
+        "text": "cómo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " se ",
+        "userDefined": false
+      },
+      {
+        "text": "llama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "222fcce7-b480-41c7-93f8-ce1816fb5ef4",
+    "data": [
+      {
+        "text": "quisiera saber cómo se llama tu aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f313bf3f-2d86-4ca8-af9c-ab62777c756c",
+    "data": [
+      {
+        "text": "dime el nombre de tu aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ce434660-c4c3-4ea1-b78d-4d497dc724b6",
+    "data": [
+      {
+        "text": "cuál es el nombre de tu aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
